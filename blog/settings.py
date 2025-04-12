@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'categories',
-    'drf_yasg',    
+    'drf_yasg',
+    'comments',
     'posts',
     'user',
 ]
